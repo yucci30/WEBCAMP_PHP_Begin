@@ -1,6 +1,6 @@
 <?php
 //ファイルの書き込み
-require_once( __DIR__ . "/WEBCAMP_Log.php" );
+require_once( __DIR__ . "/WEBCAMP_Log.php" );s
 //
 use WEBCAMP\Log;
 
